@@ -1,0 +1,12 @@
+<view>
+  <name>MIST_VIEW</name>
+  <label>Mist View</label>
+  <version>0.0.1</version>
+  <instance>
+    <name>INSTANCE_1</name>
+    <property>
+      <key>targetUri</key>
+      <value>http://127.0.0.1:2004</value>
+    </property>
+  </instance>
+</view>
