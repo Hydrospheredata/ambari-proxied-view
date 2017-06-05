@@ -1,6 +1,6 @@
 <view>
-  <name>MIST_VIEW</name>
-  <label>Mist View</label>
+  <name>HYDROSPHERE_VIEW</name>
+  <label>Hydrosphere View</label>
   <version>0.0.1</version>
   <instance>
     <name>INSTANCE_1</name>
